@@ -1,0 +1,16 @@
+C:\Users\tamir\source\repos\MenuGameDemo\bin\Debug\net5.0\MenuGameDemo.exe
+C:\Users\tamir\source\repos\MenuGameDemo\bin\Debug\net5.0\MenuGameDemo.deps.json
+C:\Users\tamir\source\repos\MenuGameDemo\bin\Debug\net5.0\MenuGameDemo.runtimeconfig.json
+C:\Users\tamir\source\repos\MenuGameDemo\bin\Debug\net5.0\MenuGameDemo.runtimeconfig.dev.json
+C:\Users\tamir\source\repos\MenuGameDemo\bin\Debug\net5.0\MenuGameDemo.dll
+C:\Users\tamir\source\repos\MenuGameDemo\bin\Debug\net5.0\ref\MenuGameDemo.dll
+C:\Users\tamir\source\repos\MenuGameDemo\bin\Debug\net5.0\MenuGameDemo.pdb
+C:\Users\tamir\source\repos\MenuGameDemo\obj\Debug\net5.0\MenuGameDemo.csproj.AssemblyReference.cache
+C:\Users\tamir\source\repos\MenuGameDemo\obj\Debug\net5.0\MenuGameDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamir\source\repos\MenuGameDemo\obj\Debug\net5.0\MenuGameDemo.AssemblyInfoInputs.cache
+C:\Users\tamir\source\repos\MenuGameDemo\obj\Debug\net5.0\MenuGameDemo.AssemblyInfo.cs
+C:\Users\tamir\source\repos\MenuGameDemo\obj\Debug\net5.0\MenuGameDemo.csproj.CoreCompileInputs.cache
+C:\Users\tamir\source\repos\MenuGameDemo\obj\Debug\net5.0\MenuGameDemo.dll
+C:\Users\tamir\source\repos\MenuGameDemo\obj\Debug\net5.0\ref\MenuGameDemo.dll
+C:\Users\tamir\source\repos\MenuGameDemo\obj\Debug\net5.0\MenuGameDemo.pdb
+C:\Users\tamir\source\repos\MenuGameDemo\obj\Debug\net5.0\MenuGameDemo.genruntimeconfig.cache
